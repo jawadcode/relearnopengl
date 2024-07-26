@@ -1,0 +1,8 @@
+[requires]
+glbinding/3.3.0
+glfw/3.4
+spdlog/1.14.1
+
+[generators]
+PkgConfigDeps
+MesonToolchain
