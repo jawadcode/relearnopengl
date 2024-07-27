@@ -1,7 +1,9 @@
 [requires]
+fmt/10.2.1
 glbinding/3.3.0
 glfw/3.4
-spdlog/1.14.1
+khrplatform/cci.20200529
+stb/cci.20240213
 
 [generators]
 PkgConfigDeps
